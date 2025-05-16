@@ -20,6 +20,9 @@ export const metadata: Metadata = {
     "Braces",
     "Teeth Whitening",
     "Oral Care",
+    "Darbhanga",
+    "Dental Care in Darbhanga",
+    "Dental Services in Darbhanga", 
     "Dentist in Darbhanga"
   ],
   authors: [{ name: "Aryan Dental Team" }],
