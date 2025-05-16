@@ -14,7 +14,7 @@ export default function Navbar() {
         <div className="flex justify-between h-20">
           <div className="flex items-center">
             <Link href="/" className="flex items-center">
-              <Image src="/logo.jpg" alt="Aryan Dental Logo" width={48} height={48} className="h-12 w-12" />
+              <Image src="/logo.png" alt="Aryan Dental Logo" width={48} height={48} className="h-12 w-12" />
             </Link>
           </div>
 
