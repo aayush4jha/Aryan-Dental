@@ -45,7 +45,7 @@ Time Slot: ${timeSlot}`
 
   const encodedMessage = encodeURIComponent(message)
 
-  window.open(`https://wa.me/918340558848?text=${encodedMessage}`, "_blank")
+  window.open(`https://wa.me/919934349934?text=${encodedMessage}`, "_blank")
 }
 
 
