@@ -34,7 +34,6 @@ export const metadata: Metadata = {
     title: "Aryan Dental | Expert Dental Care You Can Trust",
     description:
       "Your smile is our priority. Visit Aryan Dental for compassionate, cutting-edge dental care tailored to your needs.",
-    url: "https://aryandental.vercel.app",
     siteName: "Aryan Dental",
     images: [
       {
